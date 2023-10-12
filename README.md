@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This League of Legends React Application displays the roster of League of Legends champions grabbing data from the Riot API and displays the stats, skills, and skins of all champions. 
 
 ## Available Scripts
 
